@@ -1,2 +1,2 @@
 # DeepLearning-VU
-Generative adversarial network trial. Established by Deep learning course students from Vrije universiteit amsterdam
+Documents, report, code script from 2020-2021 Deep learning course at Vrije Universiteit Amsterdam
